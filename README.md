@@ -10,8 +10,6 @@ The script uses a "Circle Method" (shuffling the list and assigning each person 
 
 It leverages the `pywhatkit` library to open WhatsApp Web and send the automated messages dynamically.
 
-## 🛠️ Prerequisites
-- Python 3.x installed on your machine.
 - You must be logged into [WhatsApp Web](https://web.whatsapp.com/) on your default browser.
 
 Install the required library:
